@@ -383,7 +383,7 @@ def main():
         ╚══════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝
     """)
     print("LIPAS - Comprehensive Web Security Scanner")
-    print("Lipas by Abel Muturi")
+    print("Lipas Hey")
     print("Version 1.0.0 \n")
     
     parser = argparse.ArgumentParser(
